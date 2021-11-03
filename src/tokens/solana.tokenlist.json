@@ -17815,7 +17815,22 @@
         "twitter": "https://twitter.com/ZodiLabOfficial",
         "discord": "https://discord.gg/catpunk"
       }
-    }
+    },
+	 {
+    "chainId": 101,
+    "address": "CZAab5deHBZHRhuTQaNvrbFMADhK7LtJFtBiWDDLXH3R",
+    "symbol": "BOB",
+    "name": "BOB THE BUILDER",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CZAab5deHBZHRhuTQaNvrbFMADhK7LtJFtBiWDDLXH3R/BOB.jpg",
+    "tags": [
+    "community-token", "meme-token"
+    ],
+    "extensions": {
+      "twitter": "https://twitter.com/bobthebuilder",
+      "website": "https://bobthebuilder.com"
+  }
+}
   ],
   "version": {
     "major": 0,
