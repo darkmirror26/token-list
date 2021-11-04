@@ -17827,8 +17827,8 @@
     "community-token", "meme-token"
     ],
     "extensions": {
-      "twitter": 
-      "website": 
+      "twitter": "https://twitter.com/bobthebuilder",
+      "website": "https://bobthebuilder.com"
   }
 }
   ],
